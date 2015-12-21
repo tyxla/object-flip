@@ -1,7 +1,7 @@
 {
   "name": "object-flip",
   "version": "0.1.0",
-  "description": "Exchange object property keys with their associated values. ",
+  "description": "Exchange object property keys with their associated values.",
   "main": "index.js",
   "dependencies": {
 
