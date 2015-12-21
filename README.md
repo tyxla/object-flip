@@ -2,6 +2,8 @@
 
 Exchange object property keys with their associated values.
 
+[![Build Status](https://travis-ci.org/tyxla/object-flip.svg?branch=master)](https://travis-ci.org/tyxla/object-flip)
+
 ## About
 
 This will swap each property key of the specified object with its corresponding value.
