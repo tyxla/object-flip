@@ -2,6 +2,10 @@
 
 Exchange object property keys with their associated values.
 
+```
+npm install object-flip
+```
+
 [![Build Status](https://travis-ci.org/tyxla/object-flip.svg?branch=master)](https://travis-ci.org/tyxla/object-flip)
 
 ## About
